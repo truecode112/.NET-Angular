@@ -1,0 +1,6 @@
+{
+   "/api/Function1": {
+        "target": "http://localhost:7280/api/Function1",
+        "secure": false
+   }
+}
